@@ -77,6 +77,7 @@ Let Android Studio install dependencies.
 Connect an Android device or use an emulator to run the app.
 
 🔮 Future Enhancements
+
  Add Dark Mode support
 
  Health statistics and visualization charts
@@ -86,8 +87,10 @@ Connect an Android device or use an emulator to run the app.
  Add cloud backup using Firebase
 
 ✍️ Author
+
 Nouman Sayed
 AI & Data Science Enthusiast
 
 📄 License
+
 This project is licensed under the MIT License. Feel free to use and modify it for educational or personal use.
