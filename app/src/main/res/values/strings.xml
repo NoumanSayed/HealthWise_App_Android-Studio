@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="app_logo">App Logo</string>
+    <string name="app_name_tracker">HealthWise</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_email">Email</string>
+    <string name="button_login">Login</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_age_required">Age is required</string>
+    <string name="error_invalid_age">Please enter a valid age</string>
+    <string name="error_invalid_age_format">Please enter a valid age format</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+        <string name="app_name_fitness_buddy">Fitness Buddy</string>
+        <string name="tagline_track_health">Track your health with ease</string>
+        <string name="button_bmi_calculator">BMI Calculator</string>
+        <string name="button_calorie_tracker">Calorie Tracker</string>
+        <string name="user_info">User Info</string>
+        <string name="loading">Loading...</string>
+        <string name="profile_image">Profile Image</string>
+        <string name="your_profile">Your Profile</string>
+        <string name="name_icon">Name Icon</string>
+        <string name="age_icon">Age Icon</string>
+        <string name="email_icon">Email Icon</string>
+        <string name="name_placeholder">Name: </string>
+        <string name="age_placeholder">Age: </string>
+        <string name="email_placeholder">Email: </string>
+        <string name="close">Close</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="enter_weight_kg">Enter weight (kg)</string>
+    <string name="enter_height_cm">Enter height (cm)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result_placeholder">Your BMI will appear here</string>
+    <string name="error_weight_required">Please enter your weight</string>
+    <string name="error_height_required">Please enter your height</string>
+    <string name="error_positive_values">Please enter positive values</string>
+    <string name="error_invalid_input">Invalid input. Please enter numbers.</string>
+    <string name="your_bmi_is">Your BMI is:</string>
+
+    <string name="your_bmi">Your BMI</string>
+    <string name="category">Category</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity">Obesity</string>
+
+    <string name="calorie_tracker">Calorie Tracker</string>
+    <string name="select_dish">Select a Dish:</string>
+    <string name="quantity">Enter Quantity:</string>
+    <string name="quantity_hint">e.g., 100 (grams), 1 (serving)</string>
+    <string name="add_item">Add Item</string>
+    <string name="total_calories_placeholder">Total Calories: </string>
+    <string name="check_your_list">Check Your List</string>
+
+    <string name="order_details">Order Details</string>
+    <string name="total_placeholder">Total: </string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login_failed_validation">Login failed due to validation errors</string>
+</resources>
